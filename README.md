@@ -1,5 +1,4 @@
-![Capa do projeto Machine Learning e Inteligência Artificial](Projeto-de-Machine-Learning-e-Inteligencia-Artificial/Assets
-/capa-machine-learning.png)
+![Capa do projeto Machine Learning e Inteligência Artificial](Assets/capa-machine-learning.png)
 
 *Imagem de capa produzida com inteligência artificial (IA).*
 
