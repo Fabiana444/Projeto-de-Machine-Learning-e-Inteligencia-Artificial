@@ -1,3 +1,8 @@
+![Capa do projetoMachine Learning e Inteligência Artificial](assets/capa-salesinsight.png.png)
+*Imagem de capa produzida com inteligência artificial (IA).*
+
+
+
 # Projeto-de-Machine-Learning-e-Inteligencia-Artificial
 Projeto de Machine Learning para previsão de cancelamentos de reservas hoteleiras, utilizando análise exploratória de dados, tratamento e Engenharia de Features, classificação e métricas de avaliação.
 
