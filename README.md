@@ -1,4 +1,4 @@
-![Capa do projetoMachine Learning e Inteligência Artificial](assets/capa-salesinsight.png.png)
+![Capa do projetoMachine Learning e Inteligência Artificial](assets/capa_previsão_de Cancelamentos_hotelaria.png)
 *Imagem de capa produzida com inteligência artificial (IA).*
 
 
