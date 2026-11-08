@@ -2,7 +2,8 @@
 
 *Imagem de capa produzida com inteligência artificial (IA).*
 
-# Projeto de Machine Learning e Inteligência Artificial — Previsão de Cancelamentos de Reservas Hoteleiras
+# Projeto de Machine Learning e Inteligência Artificial<p>
+# Previsão de Cancelamentos de Reservas Hoteleiras
 
 ## Sobre o projeto
 
